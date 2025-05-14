@@ -1,0 +1,209 @@
+body {
+    background-color: #1B5886; 
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border-radius: 12px;
+    background: #3777a183;
+    backdrop-filter: blur(10px);
+}
+
+input {
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+}
+
+.clock {
+    font-size: 48px;
+    font-family: "Counter Stream", monospace;
+    font-weight: 200;
+    position: absolute;
+    top: -50px;
+    right: 10px;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.buttons{
+    display: flex;
+    flex-direction:column;
+    position: absolute;
+    top: 130px;
+    left: 10px;
+    gap: 10px;
+    background: #3777a183;
+    padding: 10px;
+    border: solid 1px #3777a183;
+    border-radius: 12px;
+    
+}
+
+.individualbtn{
+    size: 100px;
+    border-radius: 8px;
+    border: solid 0 #1B5886;
+    width: 120px;
+    height: 50px;
+    outline: none;
+    font-size: 16px;
+    background-color: #1B5886;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#youtubeButton:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+#gmailButton:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+#whatsappButton:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+#telegramButton:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+#twitterButton:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+#discordButton:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+#githubButton:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+#searchBox{
+    width: 300px;
+    height: 20px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#searchBox:hover{
+    background-color: #ffffff;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+.tasks{
+    font-size: 20px;
+    font-family: "Droid Sans", sans-serif;
+    background-color: #3777a183;
+    border-radius: 10px;
+    font-weight: 200;
+    position: absolute;
+    top: 270px;
+    right: 10px;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 10px;
+
+}
+
+#addTaskButton{
+    size: 100px;
+    border-radius: 8px;
+    border: solid 0 #1B5886;
+    width: 120px;
+    height: 40px;
+    outline: none;
+    font-size: 16px;
+    background-color: #1B5886;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+}
+
+#addTaskButton:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+.taskin:hover{
+    background-color: #ffffff;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+.footer{
+    font-size: 12px;
+    font-family: "Counter Stream", monospace;
+    font-weight: 200;
+    position: absolute;
+    top: 680px;
+    left: 13px;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#githubButtonDev{
+    size: 70px;
+    border-radius: 8px;
+    border: solid 0 #2a86cd;
+    width: 100px;
+    height: 40px;
+    outline: none;
+    font-size: 16px;
+    background-color: #2a86cd;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: #3777a1 0px 0px 10px; 
+}
+
+#githubButtonDev:hover{
+    background-color: #3777a1;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+h1:hover{
+     background-color: #ffffff00;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
+
+p:hover{
+     background-color: #ffffff00;
+    transition: ease-in-out 0.3s;
+    transform: scale(1.05);
+}
