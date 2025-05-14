@@ -23,7 +23,9 @@ Follow these steps to install the theme manually:
 5. Turn on **Developer Mode** (toggle in the top-right corner).  
 6. Click **Load Unpacked**.  
 7. Select the folder where you saved the theme files.  
-8. Your customized Chrome theme is now ready to use!  
+8. Your customized Chrome theme is now ready to use!
+
+**NOTE:** You May Need To Turn It On (toggle On The Extension) If It Isn't Turned On By Default.
 
 ---
 
