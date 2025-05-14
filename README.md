@@ -13,20 +13,21 @@ This **Chrome Theme** enhances your browsing experience with a sleek blue design
 - **Live Clock**: Shows the current time at the top-right corner.
 - **Completely Free**: No cost—just install and enjoy!
 
-## Installation Guide
-Follow these steps to install the theme manually:
+## Installation Guide  
+Follow these steps to install the theme manually:  
 
-1. Open **Google Chrome**.
-2. Click on the **three dots** menu in the top-right corner.
-3. Select **Extensions** > **Manage Extensions**.
-4. Turn on **Developer Mode** (toggle in the top-right).
-5. Click **Load Unpacked**.
-6. Select the folder where your theme files are stored.
-7. Enjoy your new customized Chrome experience!
+1. **Download** and place all the theme files in the **same folder** on your computer.  
+2. Open **Google Chrome**.  
+3. Click the **three dots** menu in the top-right corner.  
+4. Go to **Extensions** > **Manage Extensions**.  
+5. Turn on **Developer Mode** (toggle in the top-right corner).  
+6. Click **Load Unpacked**.  
+7. Select the folder where you saved the theme files.  
+8. Your customized Chrome theme is now ready to use!  
 
 ---
 
-Let me know if you’d like any tweaks to this! 🚀
+Hope You Guys Would Like It 😊
 
 
 Some ScreenShots 👇👇👇
